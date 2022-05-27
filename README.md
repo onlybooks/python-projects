@@ -1,27 +1,34 @@
-# Real World Python
+# 『실전 파이썬 핸즈온 프로젝트』 공식 깃허브 페이지
+문제 해결과 실무 응용력을 키우기 위한 나만의 파이썬 포트폴리오 만들기<br>
+리 본 지음 | 오현석 옮김<br>
+★ 책만 도서 정보페이지 https://www.onlybook.co.kr/entry/python-projects<br>
 
-This repository contains the source code and supporting files for the book *Real World Python: A Hacker’s Guide to Solving Problems with Code* by Lee Vaughan. The files are organized by chapter. Each code listing in the book references a corresponding file name in this repository.
+▶ 교보문고 https://bit.ly/3wCQUQl<br>
+▶ 예스24 https://bit.ly/38cltTC<br>
+▶ 알라딘 http://aladin.kr/p/MPbX2<br>
+▶ 인터파크 https://bit.ly/3Gbf87n<br>
 
-![image](https://user-images.githubusercontent.com/31315095/86478311-b3fbbc80-bd0f-11ea-88a6-1db9dca5a5dd.png)
+<image src="https://blog.kakaocdn.net/dn/cyDlrx/btrCRQNissF/W40BWqE89M01OtVnk8Eiy0/img.jpg" width=600px><br>
 
-## Get the Book
-The book is available at retail bookstores like Barnes & Noble and from online sellers like https://www.amazon.com/. 
-A print/eBook bundle can be purchased directly from the publisher at https://nostarch.com/real-world-python/.
+실전 파이썬 핸즈온 프로젝트 (리 본 지음, 오현석 옮김)의 소스 코드와 지원 파일이 담겨 있습니다. 파일은 장 별로 정리되어 있습니다. 책에 나오는 각 코드 목록은 이 저장소의 해당 파일 이름을 참조합니다.<br>
 
-## Download the Chapters
-To download the chapter folders, use the green “Code” button near the top of the repository code page.
+오타나 오류 신고는 깃허브 이슈 트래커( https://github.com/onlybooks/python-projects/issues )에 남겨주십시오.<br>
 
-![image](https://user-images.githubusercontent.com/31315095/86478653-31bfc800-bd10-11ea-80fa-388234db9282.png)
+## 장별 다운로드
+각 장의 폴더를 다운로드하려면 저장소 코드 페이지 위쪽에 있는 녹색 ‘코드’ 버튼을 누르면 됩니다.<br>
 
-## Versioning
-The book uses Python 3.7.
+## 파이썬 버전
+파이썬 3.7 이상<br>
 
-## Errata
-For updates and errata, visit https://nostarch.com/real-world-python/. Please report typos and other issues to errata@nostarch.com.
+## 이 책에서 사용하는 공개 전자책 파일
+이 책의 2장 ~ 4장에서는 문서와 텍스트 비교 분석 프로젝트를 수행하면서 특정 전자책을 소스로 사용합니다. 이에 이 소스 파일에 프로젝트 구텐베르크(Project Gutenberg)에 공개된 전자책을 포함해뒀습니다. 이 전자책들은 미국을 비롯한 전 세계 국가에서 무료로, 거의 제한 없이 사용할 수 있습니다. 독자 여러분은 전자책에 포함된 프로젝트 구텐베르크 라이선스 또는 온라인 www.gutenberg.org 의 조항에 따라 해당 저작물을 복사, 양도, 재사용할 수 있습니다. 단, 이 전자책을 사용하기 전에 거주 국가의 법률을 확인해야 합니다.<br>
 
-## Project Gutenberg
-These source files include ebooks from Project Gutenberg. These ebooks are for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy them, give them away or re-use them under the terms of the Project Gutenberg License included with the eBooks or online at www.gutenberg.org. If you are not located in the United States, you'll have to check the laws of the country where you are located before using the ebooks.
+## 저자/역자 소개
+### 지은이 리 본(Lee Vaughan)<br>
+프로그래머이며, 열렬한 대중문화 애호자이자 교육자이고, 저자로 활약 중이다. 엑슨모빌ExxonMobil의 임원급 과학자로, 수십 년 동안 복잡한 컴퓨터 모델을 구성, 검토하고, 소프트웨어를 개발, 테스트했으며, 지질학자와 엔지니어를 교육해왔다. 독학을 하는 파이썬 프로그래머들이 자신의 파이썬 기술을 날카롭게 다듬으면서 흥미를 느낄 수 있도록 이 책과 『신비한 파이썬 프로젝트』(영진닷컴, 2020)를 저술했다.<br>
+▶ 지은이 깃허브 https://github.com/rlvaugh <br>
 
-## Other Books by the Author
-[*Impractical Python Projects: Playful Programming Activities to Make You Smarter*](https://nostarch.com/impracticalpythonprojects)
-
+### 옮긴이 오현석<br>
+비사이드소프트BSIDESOFT 이사로 일하면서 매일매일 고객의 요청에 따라 코드를 만들어내고 있는 현업 개발자다. 어릴 때 처음 컴퓨터를 접하고 매혹된 후 경기과학고, KAIST 전산학과(프로그래밍 언어 전공 석사)를 거치면서 계속 컴퓨터를 사용해왔다.<br>
+직장에서는 주로 코틀린이나 자바를 사용한 서버 프로그래밍을 하고, 주말이나 빈 시간에는 번역을 하거나 공부를 하면서 즐거움을 찾는다. 시간이 아주 많이 남을 때는 시뮬레이션 게임을 하면서 머리를 식히며 놀고, 어떻게 하면 막내자식을 프로그래밍의 세계로 끌어들일 수 있을까 고민 중인 아빠이기도 하다.<br>
+『코어 파이썬 애플리케이션 프로그래밍 Core Python Applications Programming Third Edition』(에이콘출판, 2014)을 시작으로 『Kotlin in Action』(에이콘출판, 2017), 『한 권으로 읽는 컴퓨터 구조와 프로그래밍』(책만, 2021), 『파이썬으로 살펴보는 아키텍처 패턴』(한빛미디어, 2021), 『Programming in Scala 4/e』(에이콘출판, 2021) 등 30여 권의 책을 번역했다.<br>
