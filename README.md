@@ -10,7 +10,7 @@
 
 <image src="https://blog.kakaocdn.net/dn/cyDlrx/btrCRQNissF/W40BWqE89M01OtVnk8Eiy0/img.jpg" width=600px><br>
 
-실전 파이썬 핸즈온 프로젝트 (리 본 지음, 오현석 옮김)의 소스 코드와 지원 파일이 담겨 있습니다. 파일은 장 별로 정리되어 있습니다. 책에 나오는 각 코드 목록은 이 저장소의 해당 파일 이름을 참조합니다.<br>
+실전 파이썬 핸즈온 프로젝트 (리 본 지음, 오현석 옮김)의 소스 코드와 지원 파일이 담겨 있습니다. 파일은 장별로 정리되어 있습니다. 책에 나오는 각 코드 목록은 이 저장소의 해당 파일 이름을 참조합니다.<br>
 
 오타나 오류 신고는 깃허브 이슈 트래커( https://github.com/onlybooks/python-projects/issues )에 남겨주십시오.<br>
 
